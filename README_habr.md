@@ -27,7 +27,7 @@
 Приточная вентиляция:
 
 - четыре комнаты, от 80 до 120 м<sup>3</sup> на комнату
-- вытяжка осуществляется в родные вытяжные каналы (3 канала: кухня, ванная, туалет)
+- вытяжка осуществляется в родные вытяжные каналы (2 канала: кухня+туалет, ванная)
 - возможность балансировать воздушный поток между комнатами
 - требования к фильтрации EU5-EU7
 
@@ -73,9 +73,9 @@
 
 Проникся уважением к шведам - все отверстия в камерах и глушителях были закрыты полиэтиленовыми "шапочками". Несколько фото:
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/plenum_box/plenum_box1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/plenum_box/plenum_box2.jpeg?raw=true" alt="drawing" width="350"/>  
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/plenum_box/plenum_box1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/plenum_box/plenum_box2.jpeg?raw=true" alt="drawing" width="350"/>  
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/plenum_box/plenum_box3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/plenum_box/plenum_box4.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/plenum_box/plenum_box3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/plenum_box/plenum_box4.jpeg?raw=true" alt="drawing" width="350"/> 
 
 Черная трубочка это оплетка тросика, которым передвигается круглый перфорированный рассеиватель. Назначение рассеивателя - регулировать поток, увеличивая или уменьшая сопротивление потоку, ну и сам поток естественно рассеивать в камере, чтобы он не бил прямо на выход из камеры узкой струей, а распределился по всему сечению выхода.  
 Прозрачные трубочки предназначены для подключения к дифференциальному манометру при проведении пусконаладки. На ярлыке указан K-фактор, по которым можно, измерив разницу давления дифференциальным манометром, получить расход воздуха через камеру.
@@ -86,7 +86,7 @@
 
 Решетки лучше заказывать в комплектации с регулятором - очень удобно регулировать поток или, например, отключить одну из комнат.
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles1.png?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles2.png?raw=true" alt="drawing" width="350"/>  
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles1.png?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles2.png?raw=true" alt="drawing" width="350"/>  
 
 На сайте есть отличный калькулятор для проверки параметров каждого из компонент. Например, для [NOVA-A-2-2-300x100](https://design.systemair.com/Global/en-GB/catalogue/NOVA_A?accessories=0&blades=0&damper=1&height=100&length=300&market=0&mounting=2&mounting_frame=0&oden_fixing=1&rows=2&surface_finish=0).  
 
@@ -95,17 +95,17 @@
 Например, так выглядит распределение воздушного потока в моей комнаты (4,5 х 3,5 м, высота потолков 2,7, расположение решетки в 15 см от потолка в углу комнаты) при разном расходе воздуха (температура в комнате 20 С, температура подачи 20 С):  
 
 - 60 м<sup>3</sup> и терминальной скорости потока 0,1 м/с  
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles3_60_1.png?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles3_60_2.png?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles3_60_1.png?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles3_60_2.png?raw=true" alt="drawing" width="350"/> 
 
 - 120 м<sup>3</sup> и терминальной скорости потока 0,2 м/с  
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles3_120_1.png?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles3_120_2.png?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles3_120_1.png?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles3_120_2.png?raw=true" alt="drawing" width="350"/> 
 
 - 250 м<sup>3</sup> и терминальной скорости потока 0,3 м/с  
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles3_250_1.png?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/grilles/grilles3_250_2.png?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles3_250_1.png?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/grilles/grilles3_250_2.png?raw=true" alt="drawing" width="350"/> 
 
 ## Разводка воздуховодов
 
-На предыдущей квартире я использовал обычные пластиковые каналы 100 мм или прямоугольные 60х120 мм. Мастера с [my.mastergrad.com](https://my.mastergrad.com/) убедили отказаться от пластика и перейти на витые оцинкованные.
+На предыдущей квартире я использовал обычные пластиковые каналы 100 мм или прямоугольные 60х120 мм. Мастера с [my.mastergrad.com](https://my.mastergrad.com/) убедили отказаться от пластика и перейти на витые оцинкованные. Покупать лучше с завода, причем из самого толстого листа. Да они будут тяжелей, но повышается жесткость и, как следствие, снижается шум.
 
 Чтобы снизить шум, в канале желательно держать скорость не выше 2.0-2.5 м/с. Есть отличная бесплатная программа [Vent-Calc v2.0](http://www.sibclim.ru/2009/06/18/vent-calc-v2.0-programma-dlja-rascheta.html). С ее помощью можно посчитать скорость потока и потери давления для различных элементов системы вентиляции.
 
@@ -116,7 +116,7 @@
 - при расходе 250 м<sup>3</sup> и диаметре 160 мм скорость потока составит 3,45 м/с, потеря давления резко увеличится до 6,6 Па на метр
 - при расходе 300 м<sup>3</sup> и диаметре 200 мм скорость потока составит 2,65 м/с, потеря давления - 3,1 Па на метр
 
-Входной воздуховод я решил использовать 200 мм, разводку по комнатам сделать 160 мм. Все трубы и камеры обклеил пенофолом 5 мм.
+Входной воздуховод я решил использовать 200 мм, разводку по комнатам сделать 160 мм. Все трубы и камеры обклеил пенофолом 5 мм. При стыковке воздуховодов нужно обращать внимание на навивку, чтобы она шла в одном направлении.
 
 Нитки каналов в комнаты у меня короткие (кроме одной), я решил заложиться на более мощный вентилятор, в надежде, что он прокачает всю сеть.
 
@@ -126,13 +126,13 @@
 
 Подборка фото:  
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube2.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube2.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube4.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube4.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube6.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube6.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube7.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/tube/tube8.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube7.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/tube/tube8.jpeg?raw=true" alt="drawing" width="350"/> 
 
 ## Подключение канального кондиционера
 
@@ -156,16 +156,16 @@
 - для балансировки воздушной сети на двух коротких ветках стоят ирисовые регуляторы
 - дополнительно сделан обход кондиционера "байпас" трубой 200 мм из приточки в "светофор". Это режим используется для зимней эксплуатации, чтобы не гнать воздушный поток через кондиционер 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/air_conditioning/air_conditioning0.png?raw=true" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/air_conditioning/air_conditioning0.png?raw=true" alt="drawing" width="400"/>
 
 
 Фото монтажа:  
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/air_conditioning/air_conditioning1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/air_conditioning/air_conditioning2.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/air_conditioning/air_conditioning1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/air_conditioning/air_conditioning2.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/air_conditioning/air_conditioning3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/air_conditioning/air_conditioning4.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/air_conditioning/air_conditioning3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/air_conditioning/air_conditioning4.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/air_conditioning/air_conditioning5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/air_conditioning/air_conditioning6.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/air_conditioning/air_conditioning5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/air_conditioning/air_conditioning6.jpeg?raw=true" alt="drawing" width="350"/> 
 
 ## Приточная вентиляция
 
@@ -185,7 +185,7 @@
 
 Ниже показана кривая производительности вентилятора от внешнего давления. Выбранная мной модель как раз укладывается в предельные характеристики.  
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/vent/vent0.png?raw=true" alt="drawing" width="800"/>
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/vent/vent0.png?raw=true" alt="drawing" width="800"/>
 
 Фото монтажа:
 
@@ -194,11 +194,11 @@
 - далее стоит канальный подогреватель и еще один шумоглушитель
 - в коридоре стоит еще один фильтр тонкой очистки для фильтрации воздуха в кондиционер (рециркуляция)
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/vent/vent1.jpg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/vent/vent2.jpg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/vent/vent1.jpg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/vent/vent2.jpg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/vent/vent3.jpg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/vent/vent4.jpg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/vent/vent3.jpg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/vent/vent4.jpg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/vent/vent5.jpg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/vent/vent6.jpg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/vent/vent5.jpg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/vent/vent6.jpg?raw=true" alt="drawing" width="350"/> 
 
 ## Фильтрация воздуха
 
@@ -223,9 +223,9 @@
   - NF400/P - как раз то, что надо
 - Шитьем пока не занимался.
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/filter/filter1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/filter/filter3.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/filter/filter1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/filter/filter3.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/filter/filter4.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/filter/filter5.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/filter/filter4.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/filter/filter5.jpeg?raw=true" alt="drawing" width="350"/> 
 
 Вариант 2 - заказать фильтр в сборе.
 
@@ -233,13 +233,13 @@
 
 Качество изготовления отличное, идеально сел в родной корпус FFR 200. Для себя решил, что буду заказывать - это 2-3 кратная экономия к оригиналу.
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/filter/filter6.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/filter/filter7.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/filter/filter6.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/filter/filter7.jpeg?raw=true" alt="drawing" width="350"/> 
 
 ## Автоматика
 
 Сделал небольшой щиток:
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/automatic/automatic1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/automatic/automatic2.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/automatic/automatic1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/automatic/automatic2.jpeg?raw=true" alt="drawing" width="350"/> 
 
 В щитке оставил запас для контролера автоматики и небольшого трансформатора. Схема максимально простая:
 
@@ -261,8 +261,8 @@
 - скорость воздуха на выходе их решеток - 0,8 м/с (соответствует расходу примерно 60 м<sup>3</sup>/час, 250 м<sup>3</sup>/час на всю квартиру).
 - воздух из решетки распространяется не очень далеко, практически сразу падает на пол.
 - комфортность полностью устраивает, в квартире не чувствуется недостатка воздуха.
-- температура на регуляторе установлена на 20 С. На выходе из решеток температура около 21 °C.
-- расход электричества несколько удручает, за ночь - 10 кВт/час (на улице было примерно 5 °C)
+- температура на регуляторе установлена на 20 °C. На выходе из решеток температура около 21 °C.
+- расход электричества несколько удручает, за ночь - 10 кВт/час (на улице было примерно +5 °C)
 
 2-работает приточка и канальный кондиционер в режиме нагрева
 
@@ -296,24 +296,24 @@
 И главное, благодаря глушителям, я перестал слышать рабочих с верхнего этажа (звук шел через вентиляционную шахту).
 
 Фото монтажа:  
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/kitchen/kitchen1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/kitchen/kitchen2.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/kitchen/kitchen1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/kitchen/kitchen2.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/kitchen/kitchen3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/kitchen/kitchen4.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/kitchen/kitchen3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/kitchen/kitchen4.jpeg?raw=true" alt="drawing" width="350"/> 
 
 Дополнительно в туалете поставим маленький глушитель и ирисовый клапан для регулировки потока.
 Без регулировки тяга была такая, что зимой на туалете невозможно сидеть - сдувает. После ирисового поставил обратный клапан.
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/kitchen/kitchen5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/kitchen/kitchen6.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/kitchen/kitchen5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/kitchen/kitchen6.jpeg?raw=true" alt="drawing" width="350"/> 
 
 ## Финишная отделка
 
 Когда жена посмотрела на все эти трубы она "ласково" назвала их цехом. Но после окончательной отделки большую часть удалось спрятать. Канальный кондиционер и большая часть труб спрятаны под подвесным потолком в маленьком коридоре.
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/finish/finish1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/finish/finish2.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/finish/finish1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/finish/finish2.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/finish/finish3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/finish/finish4.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/finish/finish3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/finish/finish4.jpeg?raw=true" alt="drawing" width="350"/> 
 
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/finish/finish5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/finish/finish6.jpeg?raw=true" alt="drawing" width="350"/> 
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/finish/finish5.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/finish/finish6.jpeg?raw=true" alt="drawing" width="350"/> 
 
 ## Стоимость системы
 
@@ -336,7 +336,7 @@
 
 - ноябрь 2012 - 613 кВт/ч (теплый месяц был)
 - декабрь 2012 - 1208 кВт/ч
-- январь 2013 - 1128 кВт/ч (работало не полный месяц - на новый год уезжали)
+- январь 2013 - 1128 кВт/ч (не полный месяц - на новый год уезжали)
 
 По расходу воздуха - держал все время на минимуме примерно 150-200 м<sup>3</sup>/час на всю квартиру. В целом результатом доволен.  
 
@@ -387,10 +387,10 @@
 Несколько фоток, во что превратилась система после перевода на воду
 
 - так выглядят электрический и водяной калориферы  
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/water/water3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/water/water4.jpeg?raw=true" alt="drawing" width="350"/>
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/water/water3.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/water/water4.jpeg?raw=true" alt="drawing" width="350"/>
 
 - щиток автоматики  
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/automatic/automatic3.jpeg?raw=true" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/automatic/automatic3.jpeg?raw=true" alt="drawing" width="400"/>
 
 - смесительный узел  
-<img src="https://github.com/romapres2010/ventilation/blob/master/img/water/water1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://github.com/romapres2010/ventilation/blob/master/img/water/water2.jpeg?raw=true" alt="drawing" width="350"/>
+<img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/water/water1.jpeg?raw=true" alt="drawing" width="350"/>  <img src="https://raw.githubusercontent.com/romapres2010/ventilation/master/img/water/water2.jpeg?raw=true" alt="drawing" width="350"/>
